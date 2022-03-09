@@ -3,4 +3,4 @@
 ### Hey there! I'm Fairfax! :wolf:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/aflovelace/)
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](fax-portfolio.herokuapp.com/)
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://fairfax-portfolio.herokuapp.com/)
