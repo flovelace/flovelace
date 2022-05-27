@@ -5,4 +5,4 @@
 ##### I am a full stack developer using the MERN stack.
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/aflovelace/)
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=green&logo=Portfolio&style=flat-square&logoColor=blue)]([https://fairfax-portfolio.herokuapp.com/](https://developer-portfolio-ruby-three.vercel.app/))
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=green&logo=Portfolio&style=flat-square&logoColor=blue)](https://developer-portfolio-ruby-three.vercel.app/)
