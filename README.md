@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=flovelace&show_icons=true&title_color=fff&theme=tokyonight&count_private=true&hide=stars">
 
-### Hey there! I'm Fairfax! :wolf:
+### Hey there! My name is Ada! :wolf:
 
 ##### I am a full stack developer using the MERN stack.
 
