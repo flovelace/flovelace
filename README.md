@@ -1,4 +1,4 @@
-### Hey there!
+Hey there!
 My name is Ada! :wolf:
 
 I am a fullstack developer, and QA Engineer. I specialise in building and testing accessible web applications. I focus on Dark Mode and champion visually accessible colour palettes.
